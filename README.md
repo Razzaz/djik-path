@@ -1,8 +1,8 @@
 ## Dijk-Path
 
-<p align="center"><img src="https://github.com/Razzaz/djik-path/blob/master/logo.svg" width="180"></p>
+<p align="center"><img src="https://github.com/Razzaz/djik-path/blob/master/logo.svg" width="180"></img></p>
 <p align="center">
-<a href="https://travis-ci.org/Razzaz/djik-path"><img src="https://travis-ci.org/Razzaz/djik-path.svg?branch=master" alt="Build Status"></img></a>
+<a href="https://travis-ci.org/Razzaz/djik-path"><img src="https://travis-ci.org/Razzaz/djik-path.svg?branch=master" alt="Build Status"</a>
 <a href='https://coveralls.io/github/Razzaz/djik-path?branch=master'><img src='https://coveralls.io/repos/github/Razzaz/djik-path/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 
