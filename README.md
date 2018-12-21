@@ -2,6 +2,19 @@
 
 You can use the [editor on GitHub](https://github.com/Razzaz/djik-path/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+```c
+// Create a new hystrix-wrapped HTTP client with the command name, along with other required options
+client := hystrix.NewClient(
+	hystrix.WithHTTPTimeout(10 * time.Millisecond),
+	hystrix.WithCommandName("google_get_request"),
+	hystrix.WithHystrixTimeout(1000),
+	hystrix.WithMaxConcurrentRequests(30),
+	hystrix.WithErrorPercentThreshold(20),
+)
+
+// The rest is the same as the previous example
+```
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
