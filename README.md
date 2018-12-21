@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dijk-Path
 
 <p align="center"><img src="https://github.com/Razzaz/djik-path/blob/master/logo.svg" width="180"></p>
 <p align="center">
