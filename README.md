@@ -1,7 +1,7 @@
 ## Dijk-Path
 
 <p align="center">
-<a href="https://travis-ci.org/Razzaz/djik-path"><img src="https://travis-ci.org/Razzaz/djik-path.svg?branch=master" alt="Build Status</a>
+<a href="https://travis-ci.org/Razzaz/djik-path"><img src="https://travis-ci.org/Razzaz/djik-path.svg?branch=master" alt="Build Status></a>
 <a href='https://coveralls.io/github/Razzaz/djik-path?branch=master'><img src='https://coveralls.io/repos/github/Razzaz/djik-path/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 You can use the [editor on GitHub](https://github.com/Razzaz/djik-path/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
