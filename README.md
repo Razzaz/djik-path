@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Razzaz/djik-path/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-```c
+```java
 // Create a new hystrix-wrapped HTTP client with the command name, along with other required options
 client := hystrix.NewClient(
 	hystrix.WithHTTPTimeout(10 * time.Millisecond),
