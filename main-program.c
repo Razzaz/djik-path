@@ -1,4 +1,4 @@
-#include "Library.h"
+#include "library.h"
 int loading(char load[25],int x,int y,int speed);//tampilkan loading awal tentukan jenis loading,kordinat dan speed time
 void kerangka();//tampilkan kerangka menu
 void welcome();//tampilkan welcome

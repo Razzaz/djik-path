@@ -6,12 +6,12 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include "GUImenu.h"
-#include "Loading.h"
+#include "loading.h"
 #include "mainmenu.h"
 #define ENTER 13
 #define TAB 9
 #define BKSP 8
-#include "Registrasi.h"
+#include "registrasi.h"
 #include "init.h"
 #include "map.h"
 #include "works.h"
