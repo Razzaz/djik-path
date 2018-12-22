@@ -30,15 +30,19 @@ Atau Anda dapat melihat tutorial pada video ini :
 ## Usage
 ### Sign-In & Sign-Up
 ![Login](/images/menuSign.png)
+
 Pengguna akan diminta untuk melakukan sign-up terlebih dahulu untuk dapat sign-in.
 ### Display Route
 ![Display Route](/images/menuDisplay.png)
+
 Untuk menampilkan rute/map.
 ### Navigate Me
 ![Navigate](/images/menuNavigate.png)
+
 Untuk melakukan navigasi ke tempat yang akan dituju. Pengguna akan diminta untuk memasukkan lokasi saat ini serta lokasi yang akan dituju. Kemudian, Dijk-Path akan menavigasikannya.
 ### Help
 ![Help](/images/menuHelp.png)
+
 Beirisi panduan singkat tentang cara penggunaan aplikasi.
 ### Exit
 Untuk keluar dari aplikasi
