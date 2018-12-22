@@ -13,7 +13,7 @@
 
 ### Description
 
-Dijk-Path merupakan sebuah aplikasi pathfinder-assistant untuk mendapatkan jarak tercepat dan terdekat dari lokasi saat ini ke lokasi yang akan dituju. Dijk-path memanfaatkan algoritma Dijkstra, namun kita tahu bahwa dijkstra tidak mampu mendeteksi kemacetan karena hanya mencari rute terdekat saja. Untuk itu digunakan algoritma Queue sebagai algoritma tambahan untuk dapat mendeteksi hal tersebut.
+Dijk-Path merupakan sebuah aplikasi pathfinder-assistant untuk mendapatkan jarak tercepat dan terdekat dari lokasi saat ini ke lokasi yang akan dituju. Dijk-path memanfaatkan algoritma Dijkstra, namun kita tahu bahwa dijkstra tidak mampu mendeteksi kemacetan karena hanya mencari rute terdekat saja. Untuk itu digunakan algoritma Queue sebagai algoritma kombinasi untuk dapat mendeteksi hal tersebut.
 
 
 ### Installation
