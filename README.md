@@ -19,18 +19,26 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 2. Buka source-code menggunakan C/C++ IDE. Jika Anda tidak memilikinya, [download disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)
 3. Kemudian, jalankan dengan cara meng-compile main-program.c
 
-Atau Anda dapat melihat tutorial pada video ini : 
+Atau Anda dapat melihat tutorial pada video ini :
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=_oUoNSitC9w"><img src="https://img.youtube.com/vi/_oUoNSitC9w/0.jpg" alt="IMAGE ALT TEXT">
+  <a href="https://www.youtube.com/watch?v=cMwkVielz4c"><img src="https://img.youtube.com/vi/cMwkVielz4c/0.jpg" alt="TUTORIAL">
   </a>
 </div>
 <br>
 
 ## Usage
-### Display Route 
-Untuk menampilkan rute/map
+### Sign-In & Sign-Up
+![Login](/images/menuSign.png)
+Pengguna akan diminta untuk melakukan sign-up terlebih dahulu untuk dapat sign-in.
+### Display Route
+![Display Route](/images/menuDisplay.png)
+Untuk menampilkan rute/map.
 ### Navigate Me
-Untuk melakukan navigasi ke tempat yang akan dituju
+![Navigate](/images/menuNavigate.png)
+Untuk melakukan navigasi ke tempat yang akan dituju. Pengguna akan diminta untuk memasukkan lokasi saat ini serta lokasi yang akan dituju. Kemudian, Dijk-Path akan menavigasikannya.
 ### Help
+![Help](/images/menuHelp.png)
 Beirisi panduan singkat tentang cara penggunaan aplikasi.
+### Exit
+Untuk keluar dari aplikasi
