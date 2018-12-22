@@ -4,7 +4,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Documentation](#documentation)
-* [FAQ](#faq)
 * [License](#license)
 
 ## Description
