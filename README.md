@@ -3,10 +3,9 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-	+ [Making a simple `GET` request](#making-a-simple-get-request)
-	+ [Creating a hystrix-like circuit breaker](#creating-a-hystrix-like-circuit-breaker)
-	+ [Creating an HTTP client with a retry mechanism](#creating-an-http-client-with-a-retry-mechanism)
-	+ [Custom retry mechanisms](#custom-retry-mechanisms)
+	+ [Display Route](#Display Route)
+	+ [Navigate Me](#Navigate Me)
+	+ [Help](#Help)
 * [Documentation](#documentation)
 * [FAQ](#faq)
 * [License](#license)
@@ -28,3 +27,11 @@ Atau Anda dapat melihat tutorial pada video ini :
 <div align="center">
   <a href="https://www.youtube.com/watch?v=_oUoNSitC9w"><img src="https://img.youtube.com/vi/_oUoNSitC9w/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
+### Usage
+#### Display Route 
+Untuk menampilkan rute/map
+#### Navigate Me
+Untuk melakukan navigasi ke tempat yang akan dituju
+#### Help
+Beirisi panduan singkat tentang cara penggunaan aplikasi.
