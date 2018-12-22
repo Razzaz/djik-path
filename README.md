@@ -25,6 +25,8 @@ Atau Anda dapat melihat tutorial pada video ini :
   <a href="https://www.youtube.com/watch?v=_oUoNSitC9w"><img src="https://img.youtube.com/vi/_oUoNSitC9w/0.jpg" alt="IMAGE ALT TEXT">
   </a>
 </div>
+<br>
+</br>
 
 ## Usage
 ### Display Route 
