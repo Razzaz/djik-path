@@ -26,7 +26,6 @@ Atau Anda dapat melihat tutorial pada video ini :
   </a>
 </div>
 <br>
-</br>
 
 ## Usage
 ### Display Route 
