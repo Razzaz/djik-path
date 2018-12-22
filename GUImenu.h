@@ -8,9 +8,8 @@ void kerangka(){
     int i;
     char ch;
     gotoxy(5,9);
-    
+
     const char *menu[]= {"   Display Route","   Navigate Me !!","   Help","   Exit"};
-    //system("cls");
     gotoxy(5,9);
     printf("MAIN MENU");
     for (i=0; i<=3; i++){
