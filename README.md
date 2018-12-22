@@ -43,6 +43,12 @@ Untuk melakukan navigasi ke tempat yang akan dituju. Pengguna akan diminta untuk
 ### Help
 ![Help](/images/menuHelp.png)
 
+
 Beirisi panduan singkat tentang cara penggunaan aplikasi.
 ### Exit
 Untuk keluar dari aplikasi
+
+## Documentation
+### How it works?
+Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskannya secara lebih detail.
+![Works](/images/works.png)
