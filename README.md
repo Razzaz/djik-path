@@ -1,27 +1,25 @@
 ## Dijk-Path
 
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+	+ [Making a simple `GET` request](#making-a-simple-get-request)
+	+ [Creating a hystrix-like circuit breaker](#creating-a-hystrix-like-circuit-breaker)
+	+ [Creating an HTTP client with a retry mechanism](#creating-an-http-client-with-a-retry-mechanism)
+	+ [Custom retry mechanisms](#custom-retry-mechanisms)
+* [Documentation](#documentation)
+* [FAQ](#faq)
+* [License](#license)
 
-```java
-// Create a new hystrix-wrapped HTTP client with the command name, along with other required options
-client := hystrix.NewClient(
-	hystrix.WithHTTPTimeout(10 * time.Millisecond),
-	hystrix.WithCommandName("google_get_request"),
-	hystrix.WithHystrixTimeout(1000),
-	hystrix.WithMaxConcurrentRequests(30),
-	hystrix.WithErrorPercentThreshold(20),
-)
+### Description
 
-// The rest is the same as the previous example
-```
+Dijk-Path merupakan sebuah aplikasi pathfinder-assistant untuk mendapatkan jarak tercepat dan terdekat dari lokasi saat ini ke lokasi yang akan dituju. Dijk-path memanfaatkan algoritma Dijkstra, namun kita tahu bahwa dijkstra tidak mampu mendeteksi kemacetan karena hanya mencari rute terdekat saja. Untuk itu digunakan algoritma Queue sebagai algoritma tambahan untuk dapat mendeteksi hal tersebut.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Untuk dapat menggunakan Dijk-Path, Anda perlu mendownload source-code nya terlebih dahulu dengan cara menekan tombol download disamping.
+Setelah source code berhasil didownload, buka source menggunakan C/C++ IDE.
 
 # Header 1
 ## Header 2
