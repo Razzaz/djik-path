@@ -25,4 +25,4 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 
 Atau Anda dapat melihat tutorial pada video ini : 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_oUoNSitC9w/0.jpg)](https://www.youtube.com/watch?v=_oUoNSitC9w)
+<center>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_oUoNSitC9w/0.jpg)](https://www.youtube.com/watch?v=_oUoNSitC9w)</center>
