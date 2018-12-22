@@ -25,4 +25,6 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 
 Atau Anda dapat melihat tutorial pada video ini : 
 
-<center>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_oUoNSitC9w/0.jpg)](https://www.youtube.com/watch?v=_oUoNSitC9w)</center>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=_oUoNSitC9w"><img src="https://img.youtube.com/vi/_oUoNSitC9w/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
