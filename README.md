@@ -24,4 +24,5 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 3. Kemudian, jalankan dengan cara meng-compile main-program.c
 
 Atau Anda dapat melihat tutorial pada video ini : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_oUoNSitC9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_oUoNSitC9w/0.jpg)](https://www.youtube.com/watch?v=_oUoNSitC9w)
