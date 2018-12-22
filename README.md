@@ -1,4 +1,4 @@
-## Dijk-Path
+# Dijk-Path
 
 * [Description](#description)
 * [Installation](#installation)
@@ -7,12 +7,12 @@
 * [FAQ](#faq)
 * [License](#license)
 
-### Description
+## Description
 
 Dijk-Path merupakan sebuah aplikasi pathfinder-assistant untuk mendapatkan jarak tercepat dan terdekat dari lokasi saat ini ke lokasi yang akan dituju. Dijk-path memanfaatkan algoritma Dijkstra, namun kita tahu bahwa dijkstra tidak mampu mendeteksi kemacetan karena hanya mencari rute terdekat saja. Untuk itu digunakan algoritma Queue sebagai algoritma kombinasi untuk dapat mendeteksi hal tersebut.
 
 
-### Installation
+## Installation
 
 Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 1. Mendownload source-code nya terlebih dahulu dengan cara menekan tombol download disamping.
@@ -25,10 +25,11 @@ Atau Anda dapat melihat tutorial pada video ini :
   <a href="https://www.youtube.com/watch?v=_oUoNSitC9w"><img src="https://img.youtube.com/vi/_oUoNSitC9w/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
-### Usage
-#### Display Route 
+
+## Usage
+### Display Route 
 Untuk menampilkan rute/map
-#### Navigate Me
+### Navigate Me
 Untuk melakukan navigasi ke tempat yang akan dituju
-#### Help
+### Help
 Beirisi panduan singkat tentang cara penggunaan aplikasi.
