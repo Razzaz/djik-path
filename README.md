@@ -55,10 +55,11 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 <br>
 ### User Configuration
 
-<details><code>
+<details>
 <summary>Konfigurasi pengguna menggunakan linkedlist (struct & stack)</summary>
 
-```c
+<code>
+c
 struct Register{
 	char username[50];
 	char password[50];
@@ -254,7 +255,6 @@ void tampilanregis(){
     curser2(2);
 }
 
-```
 </code></details>
 <br>
 
