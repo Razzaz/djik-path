@@ -258,7 +258,7 @@ void tampilanregis(){
 <br>
 
 ## License
-
+```text
 MIT License
 
 Copyright (c) 2018 razzaz & ridart44
@@ -280,3 +280,4 @@ Authors or copyright holders be liable for any claim, damages or other
 Liability, whether in an action of contract, tort or otherwise, arising from,
 Out of or in connection with the software or the use or other dealings in the
 Software.
+```
