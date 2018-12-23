@@ -54,7 +54,7 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ![Works](/images/works.png)
 
 ## License
-```java
+```
 MIT License
 
 Copyright (c) 2018 razzaz & ridart44
