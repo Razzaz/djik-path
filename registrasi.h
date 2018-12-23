@@ -9,7 +9,7 @@ void Push(char user[50], char pass[50]){
 	strcpy(temp->username,user);
 	strcpy(temp->password,pass);
 	top = temp;
-	gotoxy(4,14);	
+	gotoxy(4,14);
 }
 
 void Search(char user[50],char pass[50]){
@@ -20,7 +20,7 @@ void Search(char user[50],char pass[50]){
 		gotoxy(4,12);
 		printf("This Account Not Registered!");
 		Sleep(1000);
-		system("cls");		
+		system("cls");
 		tampilanregis();
 	}
 	while(temp!=NULL){
@@ -45,10 +45,6 @@ void Search(char user[50],char pass[50]){
 		d_mainmenu();
 		}
 	}
-//	else{
-//		printf("%d",flag);
-//		printf("gaada");
-//	}
 
 void logout(){
 	struct Refister *temp ;
@@ -61,14 +57,13 @@ void logout(){
 	temp =top;
 	top = top->link;
 	free(temp);
-	} 
-	
+	}
+
 }
 void Print(){
 	struct Register* temp = top;
 	while(temp!=NULL){
 		printf("\nWELCOME %s \n",temp->username);
-		//printf("PASSWORD : %s \n",temp->password);
 		temp = temp->link;
 		}
 	printf("\n");
@@ -155,16 +150,16 @@ void curser2(int no){
                 	signup();
                 	Sleep(800);
 					system("cls");
-				} 
+				}
                 else if(count==2) {
                 	system("cls");
                 	gotoxy(4,9);
                 	printf("SIGN IN");
                 	gotoxy(4,11);
-                	signin();                	
+                	signin();
 				}
             }
-            
+
         }
     }
 }
@@ -197,7 +192,3 @@ void tampilanregis(){
     }
     curser2(2);
 }
-
-
-
-
