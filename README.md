@@ -56,7 +56,7 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ### User Configuration
 <details>
 <summary>Konfigurasi pengguna menggunakan linkedlist (struct & stack)</summary>
-
+###code
 ```c
 struct Register{
 	char username[50];
@@ -256,8 +256,9 @@ void tampilanregis(){
 ```
 </details>
 <br>
+
 ## License
-```
+
 MIT License
 
 Copyright (c) 2018 razzaz & ridart44
@@ -279,4 +280,3 @@ Authors or copyright holders be liable for any claim, damages or other
 Liability, whether in an action of contract, tort or otherwise, arising from,
 Out of or in connection with the software or the use or other dealings in the
 Software.
-```
