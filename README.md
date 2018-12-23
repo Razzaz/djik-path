@@ -54,6 +54,9 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ![Works](/images/works.png)
 <br>
 ### User Configuration
+<details>
+<summary>Konfigurasi pengguna menggunakan linkedlist (struct & stack)</summary>
+
 ```c
 struct Register{
 	char username[50];
@@ -251,6 +254,7 @@ void tampilanregis(){
 }
 
 ```
+<\details>
 <br>
 ## License
 ```
