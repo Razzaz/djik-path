@@ -254,7 +254,7 @@ void tampilanregis(){
 }
 
 ```
-<\details>
+</details>
 <br>
 ## License
 ```
