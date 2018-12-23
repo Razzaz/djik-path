@@ -56,7 +56,7 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ### User Configuration
 <details>
 <summary>Konfigurasi pengguna menggunakan linkedlist (struct & stack)</summary>
-###code
+
 ```c
 struct Register{
 	char username[50];
