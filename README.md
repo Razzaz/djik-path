@@ -54,6 +54,7 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ![Works](/images/works.png)
 <br>
 ### User Configuration
+<code>
 <details>
 <summary>Konfigurasi pengguna menggunakan linkedlist (struct & stack)</summary>
 
@@ -255,6 +256,7 @@ void tampilanregis(){
 
 ```
 </details>
+</code>
 <br>
 
 ## License
