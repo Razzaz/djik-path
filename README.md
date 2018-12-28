@@ -57,10 +57,10 @@ Bagaimana aplikasi ini bekerja? Ilustrasi pada gambar berikut akan menjelaskanny
 ## License
 
 MIT License
+<details>
+  <summary>Copyright (c) 2018 razzaz & ridart44</summary>
 
-Copyright (c) 2018 razzaz & ridart44
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -76,4 +76,6 @@ Fitness for a particular purpose and noninfringement. In no event shall the
 Authors or copyright holders be liable for any claim, damages or other
 Liability, whether in an action of contract, tort or otherwise, arising from,
 Out of or in connection with the software or the use or other dealings in the
-Software.
+Software.</p>
+
+</details>
